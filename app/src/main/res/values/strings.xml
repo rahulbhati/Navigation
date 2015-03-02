@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Navigation</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="list">
+        <item>Rahul</item>
+        <item>John</item>
+        <item>Aei</item>
+        <item>Keil</item>
+        <item>Ramesh</item>
+        <item>Entry</item>
+        <item>Navigation</item>
+    </string-array>
+<string name="drawerOpen">Drawer Open</string>
+<string name="drawerClose">Drawer Close</string>
+
+</resources>
